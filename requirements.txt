@@ -1,0 +1,6 @@
+arxiv
+wikipedia
+mediawikiapi
+wikibase-rest-api-client
+faiss-cpu
+duckduckgo-search
