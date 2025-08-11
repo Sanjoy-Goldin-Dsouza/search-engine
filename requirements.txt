@@ -4,6 +4,7 @@ mediawikiapi
 wikibase-rest-api-client
 faiss-cpu
 duckduckgo-search
+sentence-transformers
 langchain_community
 streamlit
 langchain
@@ -11,3 +12,4 @@ ipykernel
 python_dotenv
 langchain_groq
 langchain_core
+
