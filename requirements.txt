@@ -4,3 +4,10 @@ mediawikiapi
 wikibase-rest-api-client
 faiss-cpu
 duckduckgo-search
+langchain_community
+streamlit
+langchain
+ipykernel
+python_dotenv
+langchain_groq
+langchain_core
